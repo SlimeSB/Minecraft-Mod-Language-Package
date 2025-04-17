@@ -814,8 +814,8 @@
 
 
 
-	"quark.config.world.ancient_wood.name": "苍白木",
-	"quark.config.world.ancient_wood.desc": "苍白木是一种新的木材类型，可以砍伐苍白树获得。\n苍白树不会自然生成，但是嗅探兽可以刨挖出苍白树苗。\n类似于苹果，苍白树的树叶还会掉落一种新的食物：附魔水果，食用后会增加少量经验。",
+	"quark.config.world.ancient_wood.name": "灰白木",
+	"quark.config.world.ancient_wood.desc": "灰白木是一种新的木材类型，可以砍伐灰白树获得。\n灰白树不会自然生成，但是嗅探兽可以刨挖出灰白树苗。\n类似于苹果，灰白树的树叶还会掉落一种新的食物：附魔水果，食用后会增加少量经验。",
 	"quark.config.world.ancient_wood.ancient_city_loot_quality.name": "远古城市战利品Quality",
 	"quark.config.world.ancient_wood.ancient_city_loot_quality.desc": "允许的值：[0,)",
 	"quark.config.world.ancient_wood.ancient_city_loot_weight.name": "远古城市战利品权重",
@@ -826,7 +826,7 @@
 	"quark.config.world.ancient_wood.sniffing_loot_quality.name": "嗅探战利品Quality",
 	"quark.config.world.ancient_wood.sniffing_loot_quality.desc": "允许的值：[0,)",
 	"quark.config.world.ancient_wood.sniffing_loot_weight.name": "嗅探战利品权重",
-	"quark.config.world.ancient_wood.sniffing_loot_weight.desc": "设为0后，嗅探兽嗅探时不会有苍白木。原版战利品表每个条目权重都为1，所以若不编辑此项，树苗就不可能变得更稀有。\n允许的值：[0,)",
+	"quark.config.world.ancient_wood.sniffing_loot_weight.desc": "设为0后，嗅探兽嗅探时不会有灰白木。原版战利品表每个条目权重都为1，所以若不编辑此项，树苗就不可能变得更稀有。\n允许的值：[0,)",
 
 	"quark.config.world.azalea_wood.name": "杜鹃木",
 	"quark.config.world.azalea_wood.desc": "杜鹃树的生长代表一种崭新的木材类型的出现。\n杜鹃木可以使用所有普通木材的配方，包括大多数木质方块的绿色新变种。\n可以与苔藓和绿块一起使用，呈现舒适的绿色配色方案。",
